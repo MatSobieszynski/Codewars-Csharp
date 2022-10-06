@@ -1,2 +1,2 @@
 # Codewars-Csharp
-Catas from https://www.codewars.com/
+Katas from https://www.codewars.com/ c# START DATE: 06-10-2022
